@@ -26,6 +26,7 @@ html, body {
 }
 
 footer {
+    margin-top: 10vh;
     background-color: aliceblue;
     display: block;
   }
