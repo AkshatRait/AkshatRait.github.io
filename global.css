@@ -25,10 +25,13 @@ html, body {
     --primary-color:rgb(255, 255, 255);
 }
 
-Footer{
-    text-align: start;
-}
+footer {
+    background-color: aliceblue;
+    display: block;
+  }
 
-Nav{
-    
-}
+button
+  {
+  color: white;
+  background: green;
+  }
