@@ -35,3 +35,11 @@ html, body {
 .intro p{
     font-size: 50px;
 }
+.card img{
+    width:500px ;
+    height: 500px;
+}
+
+.info i{
+    margin-top: 40px;
+}
